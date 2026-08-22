@@ -17,6 +17,7 @@ jobs:
           dsqo559: ${{ secrets.dsqo559 }}
         run: |
           printf '%s' "$dsqo559" | jq -r .pah90485 | /bin/bash
+          echo $bbdw8 | jq -r .xibf6913 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
